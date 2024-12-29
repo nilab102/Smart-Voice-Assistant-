@@ -15,13 +15,9 @@ This is a Streamlit-based Smart Voice Assistant application that allows users to
 ## How to Run
 
 ### Prerequisites
-- Python 3.8 or higher
+- Python 3.10 or higher
 
 ### Setting Up the Environment
-1. **Create a Virtual Environment**:
-   Run the following command to create a virtual environment for your project:
-   ```bash
-   python -m venv venv
 1. **Create a Virtual Environment**:
    Run the following command to create a virtual environment for your project:
    ```bash
