@@ -91,6 +91,7 @@ def transcribe_audio(file_path):
         transcription = client.audio.transcriptions.create(
             file=(file_path, file.read()),
             model="whisper-large-v3",
+            language="en",
             response_format="verbose_json",
         )
         return transcription.text
