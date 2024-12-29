@@ -37,7 +37,7 @@ This is a Streamlit-based Smart Voice Assistant application that allows users to
 3. **Install Dependencies**:
     Install all the required libraries using the `requirements.txt` file:
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirment.txt
     ```
 
 4. **Set Up the .env File**:
