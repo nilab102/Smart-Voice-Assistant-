@@ -1,0 +1,6 @@
+streamlit
+audio-recorder-streamlit
+langchain
+groq
+langchain_groq
+python-dotenv
