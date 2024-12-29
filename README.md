@@ -1,6 +1,7 @@
 # Smart Voice Assistant
 
 This is a Streamlit-based Smart Voice Assistant application that allows users to interact with an AI using text or voice inputs. The AI processes user queries using Groq's APIs and LangChain's memory tools.
+[**Click here to access the live application**](https://nilab.com)
 
 ## Features
 - **Text and Voice Input**:
